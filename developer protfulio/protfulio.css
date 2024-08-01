@@ -1,0 +1,44 @@
+
+body{
+    font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+  }
+h1{
+    font-size: 50px;
+}
+
+.orac{
+    color: #e0720b;
+}
+
+h3{
+    font-size: 30px;
+}
+.intras{
+    color: #1ffd32;
+}
+
+section{
+    display: flex;
+}
+.d1{
+    width: 50%;
+    padding-left: 40px;
+}
+.d1 img{
+    width: 80%;
+}
+a{
+    font-size: 40px;
+    
+}
+.an{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 20px 40px;
+    border-radius: 15px;
+   
+}
+
+
