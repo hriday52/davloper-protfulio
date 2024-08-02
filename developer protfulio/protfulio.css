@@ -21,6 +21,7 @@ h3{
 
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .d1{
     width: 50%;
@@ -31,14 +32,65 @@ section{
 }
 a{
     font-size: 40px;
-    
+   
 }
 .an{
     text-decoration: none;
     background-image: linear-gradient(orange, tomato);
-    padding: 20px 40px;
+    padding: 10px 30px;
     border-radius: 15px;
    
+}
+.top-bg{
+    background-image: url(bg2.jpg);
+    background-repeat: no-repeat;
+
+}
+.s2{
+    width: 50%;
+    padding-left: 40px;
+}
+.s2 img{
+    width: 70%;
+}
+
+.s2b{
+ text-decoration: none;
+background-image: linear-gradient(rgb(0, 153, 255), rgb(15, 239, 247));
+width: 10px 30px;
+border-radius: 15px;
+
+}
+.d1{
+    width: 50%;
+}
+
+.sar1{
+    display: flex;
+    margin-bottom: 100px;
+    
+
+}
+
+
+.d2{
+width: 40%;
+box-shadow: 10px 10px 15px gray;
+margin-right: 5%;
+margin-left: 5%;
+padding-left: 15px;
+border-radius: 10px;
+}
+#web{
+    border-left: 10px solid;
+    border-image:linear-gradient(rgb(20, 34, 228), rgb(15, 239, 247)) ;
+    border-image-slice: 1;
+}
+#app{
+border-left: 10px solid;
+border-image: linear-gradient(rgb(230, 14, 122), rgb(247, 15, 15));
+border-image-slice: 1;
+
 }
 
 
